@@ -1,16 +1,31 @@
 # GifExpertApp
 
-Este es mi repositorio de Proyecto de GifExpertApp de React
+Este es mi repositorio del proyecto **GifExpertApp** desarrollado con **React**.
 
-Currently, two official plugins are available:
+## Descripción
 
-## Tecnología
+GifExpertApp es una aplicación que permite buscar y mostrar GIFs animados utilizando la API de GIPHY. Es un proyecto diseñado para practicar y mejorar habilidades en React y el uso de APIs externas.
 
-1. React + Vite
-2. API de GIPHY Developer
+## Tecnologías utilizadas
 
-## Ejecucion en dev
+- **React** + **Vite**: Para el desarrollo de la interfaz de usuario.
+- **API de GIPHY Developer**: Para obtener los GIFs animados.
 
-1. ```yarn dev``` para ejecutar la aplicacion en modo desarrollador
-2. ```yarn build``` para exportar el archivo para producción
+## Cómo ejecutar el proyecto
 
+1. **Modo desarrollo**: Ejecuta el siguiente comando para iniciar la aplicación en modo desarrollador:
+    ```bash
+    yarn dev
+    ```
+2. **Modo producción**: Genera los archivos optimizados para producción con:
+    ```bash
+    yarn build
+    ```
+
+## Características principales
+
+- Búsqueda dinámica de GIFs.
+- Interfaz rápida y responsiva gracias a React y Vite.
+- Consumo de datos en tiempo real desde la API de GIPHY.
+
+¡Explora y diviértete buscando tus GIFs favoritos!
